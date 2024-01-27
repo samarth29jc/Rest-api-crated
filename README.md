@@ -4,11 +4,11 @@ To use this API, follow these steps:
 Clone the repository to your local machine:
 bash
 Copy code
-git clone https://github.com/your-username/my-awesome-api.git
+git clone
 Navigate to the project directory:
 bash
 Copy code
-cd my-awesome-api
+cd into cloned dir
 Install dependencies using npm:
 bash
 Copy code
